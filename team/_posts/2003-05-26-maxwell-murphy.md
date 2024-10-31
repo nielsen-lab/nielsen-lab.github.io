@@ -6,7 +6,7 @@ image: /images/team/MaxwellPicture.jpg
 twitter: mxmrphy
 scholar: Y1cHI8IAAAAJ
 github: m-murphy
-
+alumni: true
 
 ---
 
