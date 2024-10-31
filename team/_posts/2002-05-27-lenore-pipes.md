@@ -5,6 +5,7 @@ position: Postdoc
 image: /images/team/LenorePicture.jpeg
 twitter: lpipes
 github: lpipes
+alumni: true
 
 ---
 
