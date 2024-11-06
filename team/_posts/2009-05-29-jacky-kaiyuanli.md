@@ -7,6 +7,6 @@ email: jacky.li221536@berkeley.edu
 
 ---
 
-I'm Jacky, a PhD student from the Biostatistics MA/PhD program. I graduated from Renmin University of China in 2023 with a BS in Statistics. My interests lie in statistical inference and modeling within the field of Population Genetics, especially the Ancestral Recombination Graphs (ARG). 
+I'm Jacky. I got my B.S. in Mathematical Statistics in 2023 and started the Biostatistics MA/PhD program. My interests lie in statistical inference and modeling within the field of Population Genetics, especially the Ancestral Recombination Graphs (ARG). 
 
 Pronouns: He/They
