@@ -2,7 +2,7 @@
 layout: member
 title: Dylan Stubo
 position: Undergraduate
-image: /images/team/DylanPicture.jpeg
+image: /images/team/Dylan_picture.jpg
 
 ---
 
