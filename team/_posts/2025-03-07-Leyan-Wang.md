@@ -2,7 +2,7 @@
 layout: member
 title: Leyan Wang
 position: Undergraduate
-image: /images/team/Leyan_picture.png
+image: /images/team/Leyan_picture.jpg
 
 ---
 
