@@ -8,6 +8,7 @@ scholar: 7w_tyXUAAAAJ
 website: https://vincebuffalo.com
 github: vsbuffalo
 twitter: vsbuffalo
+alumni: true
 
 ---
 
