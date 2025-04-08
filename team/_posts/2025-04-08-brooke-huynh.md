@@ -5,3 +5,5 @@ position: Undergraduate
 image: /images/team/person.png
 
 ---
+
+undergraduate student
