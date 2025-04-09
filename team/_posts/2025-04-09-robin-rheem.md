@@ -2,8 +2,8 @@
 layout: member
 title: Robin Rheem
 position: Undergraduate
-email: roundrobin@berkeley.edu
 image: /images/team/robin_picture.jpg
+email: roundrobin@berkeley.edu
 
 ---
 
