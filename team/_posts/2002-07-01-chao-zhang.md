@@ -6,6 +6,7 @@ image: /images/team/chaopicture.png
 email: chaozhang@berkeley.edu
 scholar: tLmALrkAAAAJ
 github: chaoszhang
+alumni: true
 
 ---
 
