@@ -7,6 +7,7 @@ email: ahv36@berkeley.edu
 scholar: 0dHbJacAAAAJ
 github: avaughn271
 twitter: andrewhvaughn
+alumni: true
 
 ---
 
