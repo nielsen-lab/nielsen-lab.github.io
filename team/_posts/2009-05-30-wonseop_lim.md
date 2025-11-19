@@ -4,6 +4,9 @@ title: Wonseop Lim
 position: PhD Student
 image: /images/team/wonseop_fig.jpg
 email: david9456@berkeley.edu
+scholar: 0UBxpdMAAAAJ
+website: https://wnsplim.github.io/
+github: wnsplim
 
 ---
 
