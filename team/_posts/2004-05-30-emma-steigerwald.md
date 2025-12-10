@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Emma Steigerwald
-position: PhD Candidate
+position: Postdoc
 image: /images/team/EmmaPicture.jpg
 email: emma_steigerwald@berkeley.edu
 twitter: EmmaSteigerwald
