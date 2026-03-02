@@ -6,4 +6,4 @@ image: /images/papers/highchytrid.jpg
 link: https://tinyurl.com/highchytrid
 ---
 
-How might climate-driven shifts to species' geographical ranges impact pathogen transmission and infection outcomes? A new publication in Biotropica, lead by postdoc Dr. Emma Steigerwald, addresses this question with frogs that expanded upslope to become the highest-living amphibians in the world.
+How might climate-driven shifts to species' geographical ranges impact pathogen transmission and infection outcomes? A new publication in *Biotropica*, led by postdoc Dr. Emma Steigerwald, addresses this question with frogs that expanded upslope to become the highest-living amphibians in the world.
