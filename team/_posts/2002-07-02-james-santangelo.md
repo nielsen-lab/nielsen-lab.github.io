@@ -7,6 +7,7 @@ email: james.santangelo@berkeley.edu
 scholar: 3Y4O9c4AAAAJ
 website: https://james-s-santangelo.github.io
 github: James-S-Santangelo
+alumni: true
 
 ---
 
