@@ -4,6 +4,7 @@ title: Finn Callahan
 position: PhD Candidate
 image: /images/team/FionaPicture.jpeg
 email:  fiona_callahan@berkeley.edu
+website: https://fiona-mc.github.io/fmcallahan/
 
 ---
 
