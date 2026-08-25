@@ -2,7 +2,7 @@
 layout: member
 title: Giovanni Mazzeo
 position: PhD Student
-image: /images/team/giovanni.jpeg
+image: /images/team/grm_headshot.png
 email: giovanni_mazzeo@berkeley.edu
 scholar: EERDXcgAAAAJ
 github: giorm2004
